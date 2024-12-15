@@ -7,5 +7,5 @@
 - [Viikko 4](viikko4/index.html)
 - [Viikko 5](viikko5)
 - [Viikko 6](viikko6/index.html)
-- Harjoitustyö
+- [Harjoitustyö](Harjoitustyo)
 
